@@ -16,9 +16,10 @@ guid: https://rebeccaturner.net/?page_id=12
 &nbsp;&nbsp;&nbsp;&nbsp;Seattle Post Intelligencer &#8211; &#8220;It was worth the wait for this record, which sounds redolent of early &#8217;70s West Coast folk/rock. (Imagine a much more upbeat Judee Sill and you won&#8217;t be far off.) Jingle-jangle guitar is predominant in the backup, but there&#8217;s also enough pedal steel-and, on one track, banjo-to suggest a penchant for country.&#8221;
 &nbsp;&nbsp;&nbsp;&nbsp;Culture Sonar &#8211; &#8220;&#8230;songs whose easy tunefulness can almost make you forget how much meat is really on their bones.&#8221;
 &nbsp;&nbsp;&nbsp;&nbsp;Take Effect Reviews &#8211; &#8220;Turner brings a vast amount of influences to her first album in a decade and even more skill. An extremely poetic and thoughtful record, her kind of rootsy and mostly diverse Americana formula just might make her your new favorite singer-songwriter.&#8221;
-&nbsp;&nbsp;&nbsp;&nbsp;Anearful &#8211; “She manages to find deeply personal little details and turn them into songs so relatable you&#8217;ll think these things happened to you.” <figure class="wp-block-image is-resized">
+&nbsp;&nbsp;&nbsp;&nbsp;Anearful &#8211; “She manages to find deeply personal little details and turn them into songs so relatable you&#8217;ll think these things happened to you.”
 
-<img loading="lazy" src="/shared/uploads/2019/08/slowpokes.jpg" alt="Rebecca Turner Slowpokes" class="wp-image-39" width="243" height="243" srcset="/shared/uploads/2019/08/slowpokes.jpg 800w, /shared/uploads/2019/08/slowpokes-150x150.jpg 150w, /shared/uploads/2019/08/slowpokes-300x300.jpg 300w, /shared/uploads/2019/08/slowpokes-768x768.jpg 768w" sizes="(max-width: 243px) 100vw, 243px" /></figure>
+<figure class="wp-block-image is-resized">
+<img loading="lazy" src="/shared/uploads/2019/08/slowpokes.jpg" alt="Rebecca Turner Slowpokes" class="wp-image-39" width="243" height="243" srcset="/shared/uploads/2019/08/slowpokes.jpg 800w, /shared/uploads/2019/08/slowpokes-150x150.jpg 150w, /shared/uploads/2019/08/slowpokes-300x300.jpg 300w, /shared/uploads/2019/08/slowpokes-768x768.jpg 768w" sizes="(max-width: 243px) 100vw, 243px"></figure>
 
 **Slowpokes**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beat Surrender &#8211; &#8220;Slowpokes has plenty of sweet vocals, sparkling strings and West Coast warmth to raise the temperature.&#8221;&nbsp;
@@ -26,7 +27,7 @@ guid: https://rebeccaturner.net/?page_id=12
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jersey Beat / The World According to Wawrzyniak &#8211; &#8220;Turner has a fine knack for crafting lyrics that are sharp and thoughtful&#8230;A very nice little jewel.&#8221;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All Music Guide &#8211; &#8220;Turner&#8217;s lyrics deal in subtle emotional shadings that mix the moody and the hopeful&#8230;&#8221;&nbsp;<figure class="wp-block-image is-resized">
 
-<img loading="lazy" src="/shared/uploads/2019/08/lomb.jpg" alt="Land of my Baby Album Cover" class="wp-image-21" width="236" height="236" srcset="/shared/uploads/2019/08/lomb.jpg 200w, /shared/uploads/2019/08/lomb-150x150.jpg 150w" sizes="(max-width: 236px) 100vw, 236px" /></figure>
+<figure><img loading="lazy" src="/shared/uploads/2019/08/lomb.jpg" alt="Land of my Baby Album Cover" class="wp-image-21" width="236" height="236" srcset="/shared/uploads/2019/08/lomb.jpg 200w, /shared/uploads/2019/08/lomb-150x150.jpg 150w" sizes="(max-width: 236px) 100vw, 236px"></figure>
 
 **&nbsp;&nbsp;Land Of My Baby**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Americana U.K. &#8211; &#8220;&#8230;so charmingly is it done that it is easy to fall under its spell.&#8221;&nbsp;

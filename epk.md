@@ -25,21 +25,26 @@ Performing solo or with a stage-full of her talented friends, at house concerts 
 **Booking &#8211;&nbsp;<rebeccamo34@gmail.com>**
 
 <div class="wp-block-columns has-2-columns">
-  <div class="wp-block-column">
-    <figure class="wp-block-image"><img loading="lazy" width="831" height="1024" src="/shared/uploads/2019/08/r_turner_onesheet-831x1024.jpg" alt="Rebecca Turner Slowpoke Onesheet" class="wp-image-27" srcset="/shared/uploads/2019/08/r_turner_onesheet-831x1024.jpg 831w, /shared/uploads/2019/08/r_turner_onesheet-243x300.jpg 243w, /shared/uploads/2019/08/r_turner_onesheet-768x947.jpg 768w, /shared/uploads/2019/08/r_turner_onesheet-1568x1932.jpg 1568w" sizes="(max-width: 831px) 100vw, 831px" /><figcaption>Slowpokes album onesheet <br />download&nbsp;<a href="https://rebeccaturner.net/images/r_turner_onesheet.pdf">pdf version</a>,&nbsp;<a href="https://rebeccaturner.net/images/r_turner_onesheet.jpg">jpg version</a></figcaption></figure>
-  </div>
-
-  <div class="wp-block-column">
-    <figure class="wp-block-image"><img loading="lazy" width="694" height="660" src="/shared/uploads/2019/08/slowpokes_rtnet_big.jpg" alt="Rebecca Turner Slowpokes" class="wp-image-37" srcset="/shared/uploads/2019/08/slowpokes_rtnet_big.jpg 694w, /shared/uploads/2019/08/slowpokes_rtnet_big-300x285.jpg 300w" sizes="(max-width: 694px) 100vw, 694px" /><figcaption>blank Slowpokes gig poster<br />download&nbsp;<a href="https://rebeccaturner.net/images/rt_poster_slowpokes.pdf">pdf version</a>,&nbsp;<a href="https://rebeccaturner.net/images/rt_poster_slowpokes.jpg">jpg version</a></figcaption></figure>
-  </div>
+    <div class="wp-block-column">
+        <figure class="wp-block-image"><img loading="lazy" width="831" height="1024" src="/shared/uploads/2019/08/r_turner_onesheet-831x1024.jpg" alt="Rebecca Turner Slowpoke Onesheet" class="wp-image-27" srcset="/shared/uploads/2019/08/r_turner_onesheet-831x1024.jpg 831w, /shared/uploads/2019/08/r_turner_onesheet-243x300.jpg 243w, /shared/uploads/2019/08/r_turner_onesheet-768x947.jpg 768w, /shared/uploads/2019/08/r_turner_onesheet-1568x1932.jpg 1568w" sizes="(max-width: 831px) 100vw, 831px" />
+            <figcaption>Slowpokes album onesheet <br />download&nbsp;<a href="/images/r_turner_onesheet.pdf">pdf version</a>,&nbsp;<a href="/images/r_turner_onesheet.jpg">jpg version</a></figcaption>
+        </figure>
+    </div>
+    <div class="wp-block-column">
+        <figure class="wp-block-image"><img loading="lazy" width="694" height="660" src="/shared/uploads/2019/08/slowpokes_rtnet_big.jpg" alt="Rebecca Turner Slowpokes" class="wp-image-37" srcset="/shared/uploads/2019/08/slowpokes_rtnet_big.jpg 694w, /shared/uploads/2019/08/slowpokes_rtnet_big-300x285.jpg 300w" sizes="(max-width: 694px) 100vw, 694px" />
+            <figcaption>blank Slowpokes gig poster<br />download&nbsp;<a href="/images/rt_poster_slowpokes.pdf">pdf version</a>,&nbsp;<a href="/images/rt_poster_slowpokes.jpg">jpg version</a></figcaption>
+        </figure>
+    </div>
 </div>
-
 <div class="wp-block-columns has-2-columns">
-  <div class="wp-block-column">
-    <figure class="wp-block-image"><img loading="lazy" width="600" height="696" src="/shared/uploads/2019/08/pioneer.jpg" alt="photo of Rebecca in Pioneertown, CA" class="wp-image-25" srcset="/shared/uploads/2019/08/pioneer.jpg 600w, /shared/uploads/2019/08/pioneer-259x300.jpg 259w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>photo of Rebecca in Pioneertown, CA download&nbsp;<a href="https://rebeccaturner.net/images/pioneer.jpg">jpg version</a></figcaption></figure>
-  </div>
-
-  <div class="wp-block-column">
-    <figure class="wp-block-image"><img loading="lazy" width="604" height="453" src="/shared/uploads/2019/08/studio.jpg" alt="Rebecca Turner in the Studio" class="wp-image-41" srcset="/shared/uploads/2019/08/studio.jpg 604w, /shared/uploads/2019/08/studio-300x225.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" /><figcaption>photo of Rebecca in the studio<br />download&nbsp;<a href="https://rebeccaturner.net/images/studio.jpg">jpg version</a></figcaption></figure>
-  </div>
+    <div class="wp-block-column">
+        <figure class="wp-block-image"><img loading="lazy" width="600" height="696" src="/shared/uploads/2019/08/pioneer.jpg" alt="photo of Rebecca in Pioneertown, CA" class="wp-image-25" srcset="/shared/uploads/2019/08/pioneer.jpg 600w, /shared/uploads/2019/08/pioneer-259x300.jpg 259w" sizes="(max-width: 600px) 100vw, 600px" />
+            <figcaption>photo of Rebecca in Pioneertown, CA download&nbsp;<a href="/images/pioneer.jpg">jpg version</a></figcaption>
+        </figure>
+    </div>
+    <div class="wp-block-column">
+        <figure class="wp-block-image"><img loading="lazy" width="604" height="453" src="/shared/uploads/2019/08/studio.jpg" alt="Rebecca Turner in the Studio" class="wp-image-41" srcset="/shared/uploads/2019/08/studio.jpg 604w, /shared/uploads/2019/08/studio-300x225.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />
+            <figcaption>photo of Rebecca in the studio<br />download&nbsp;<a href="/images/studio.jpg">jpg version</a></figcaption>
+        </figure>
+    </div>
 </div>
