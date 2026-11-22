@@ -107,6 +107,14 @@ p.site-description {
   text-align: left;
 }
 
+article {
+  padding: 1em;
+}
+
+article figure {
+  margin: 1em auto;
+}
+
 /*
 Theme Name: Twenty Fifteen
 Description: Used to style blocks.
@@ -781,4 +789,122 @@ p.has-drop-cap:not(:focus)::first-letter {
     display: inline-block;
     width: 100%;
   }
+}
+
+
+/*
+Theme Name:     Rebecca Turner 2015 Child Theme
+Description:
+Author:         mZoo
+Template:       twentyfifteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+/* im-fell-double-pica-regular - latin */
+@font-face {
+  font-family: 'IM Fell Double Pica';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/im-fell-double-pica-v9-latin-regular.eot');
+  /* IE9 Compat Modes */
+  src: local('IM FELL Double Pica Roman '), local('IM_FELL_Double_Pica_Roman'),
+    url('fonts/im-fell-double-pica-v9-latin-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('fonts/im-fell-double-pica-v9-latin-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('fonts/im-fell-double-pica-v9-latin-regular.woff') format('woff'),
+    /* Modern Browsers */
+    url('fonts/im-fell-double-pica-v9-latin-regular.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('fonts/im-fell-double-pica-v9-latin-regular.svg#IMFellDoublePica') format('svg');
+  /* Legacy iOS */
+}
+
+/* im-fell-double-pica-italic - latin */
+@font-face {
+  font-family: 'IM Fell Double Pica';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/im-fell-double-pica-v9-latin-italic.eot');
+  /* IE9 Compat Modes */
+  src: local('IM FELL Double Pica Italic'), local('IM_FELL_Double_Pica_Italic'),
+    url('fonts/im-fell-double-pica-v9-latin-italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('fonts/im-fell-double-pica-v9-latin-italic.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('fonts/im-fell-double-pica-v9-latin-italic.woff') format('woff'),
+    /* Modern Browsers */
+    url('fonts/im-fell-double-pica-v9-latin-italic.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('fonts/im-fell-double-pica-v9-latin-italic.svg#IMFellDoublePica') format('svg');
+  /* Legacy iOS */
+}
+
+/* muli-regular - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/muli-v16-latin-regular.eot');
+  /* IE9 Compat Modes */
+  src: local('Muli Regular'), local('Muli-Regular'),
+    url('fonts/muli-v16-latin-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('fonts/muli-v16-latin-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('fonts/muli-v16-latin-regular.woff') format('woff'),
+    /* Modern Browsers */
+    url('fonts/muli-v16-latin-regular.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('fonts/muli-v16-latin-regular.svg#Muli') format('svg');
+  /* Legacy iOS */
+}
+
+/* muli-800 - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  src: url('fonts/muli-v16-latin-800.eot');
+  /* IE9 Compat Modes */
+  src: local('Muli ExtraBold'), local('Muli-ExtraBold'),
+    url('fonts/muli-v16-latin-800.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('fonts/muli-v16-latin-800.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('fonts/muli-v16-latin-800.woff') format('woff'),
+    /* Modern Browsers */
+    url('fonts/muli-v16-latin-800.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('fonts/muli-v16-latin-800.svg#Muli') format('svg');
+  /* Legacy iOS */
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'IM Fell Double Pica', serif;
+  font-style: italic;
+}
+
+p,
+.site-description {
+  font-family: 'Muli', sans-serif;
+}
+
+strong {
+  font-family: 'Muli', sans-serif;
+  font-weight: 800;
+}
+
+p.site-description {
+  text-align: left;
+}
+
+article {
+  padding: 1em;
+}
+
+article figure {
+  margin: 1em auto;
 }
