@@ -8,7 +8,7 @@ guid: https://rebeccaturner.net/?page_id=173
 ---
  <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
+<div class="wp-block-embed__wrapper" style="display:flex;justify-content:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlnFXxsJsF8?si=PodCgH8ckifh9Tkt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
