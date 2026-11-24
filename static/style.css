@@ -7094,6 +7094,8 @@ p.site-description {
 
 article.hentry {
   padding: 2em;
+  display: flex;
+  flex-direction: column;
 }
 
 article figure {
