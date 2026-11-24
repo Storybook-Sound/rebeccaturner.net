@@ -11,7 +11,7 @@ guid: https://rebeccaturner.net/?page_id=60
 **&#8230;photos, drawings and sketches**
 
 [Facebook page](https://www.facebook.com/rebeccaturner?v=photos&viewas=0)
-[Flyers for past shows and other sketches](/misc/flyers-for-past-shows-and-other-sketches/)&nbsp;&#8211; pencil drawings, mostly&nbsp;
+[Flyers for past shows and other sketches](/misc/flyers-for-past-shows-and-other-sketches)&nbsp;&#8211; pencil drawings, mostly&nbsp;
 [Rebecca at CB&#8217;s 313 Gallery](/rebecca-at-cbs-313-gallery/)&nbsp;&#8211; February 26, 2003&nbsp;
 [Videos](http://youtube.com/user/MsRebeccaTurner)&nbsp;on YouTube&nbsp;
 
