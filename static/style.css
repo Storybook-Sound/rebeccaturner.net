@@ -7110,4 +7110,10 @@ article figure img {
 .wp-block-image {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+}
+
+.site-info {
+  display: flex;
+  justify-content: space-around;
 }
